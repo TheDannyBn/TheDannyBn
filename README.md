@@ -1,6 +1,6 @@
 # Hello! I'm Danny 👋
 
-I'm a passionate front-end developer with a strong focus on building modern, responsive web applications. I am currently enhancing my skills in:
+I'm an enthusiastic front-end developer with a deep passion for creating modern, user-friendly, and responsive web applications. My journey in web development has been fueled by a continuous drive to learn and implement the latest technologies and best practices. I thrive on transforming complex problems into elegant, efficient solutions, and I am always eager to tackle new challenges that push the boundaries of my skills.
 
 ## 🚀 Skills
 
