@@ -5,19 +5,19 @@ I'm a passionate front-end developer with a strong focus on building modern, res
 ## 🚀 Skills
 
 ### Languages
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) JavaScript
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) TypeScript
-- ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5) HTML
-- ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3) CSS
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) 
+- ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5) 
+- ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3) 
 
 ### Frameworks
-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) React
+- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 
 ### Tools
-- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) Git
-- ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack) Webpack
-- ![Babel](https://img.shields.io/badge/-Babel-black?style=flat-square&logo=babel) Babel
-- ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm) npm/yarn
+- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
+- ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack) 
+- ![Babel](https://img.shields.io/badge/-Babel-black?style=flat-square&logo=babel) 
+- ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm) 
 
 ### Other
 - Responsive Design
