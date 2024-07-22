@@ -30,8 +30,8 @@ I'm an enthusiastic front-end developer with a deep passion for creating modern,
 
 ## 📬 Get In Touch
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com)
-- [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dannybaran/)
+
 
 ## 🎯 Goals
 
